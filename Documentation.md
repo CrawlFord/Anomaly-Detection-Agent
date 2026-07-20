@@ -3,7 +3,7 @@
 **Project Link:** [View Project](https://nextwork.ai/projects/80e6ffec-6938-482c-ab59-89109492e21c)
 
 **Author:** Torobong Andrew-Udoh  
-[<img src="https://github.com/CrawlFord/Images/blob/main/email.png" alt="email adress" width="25" />](tandrewudoh@gmail.com)   [<img src="https://github.com/CrawlFord/Images/blob/main/github_logo_icon.png" alt="GitHub" width="25" >](https://github.com/CrawlFord)
+[!(Eamil)(<img src="https://github.com/CrawlFord/Images/blob/main/email.png" alt="emailme" width="25" />)](tandrewudoh@gmail.com)   [<img src="https://github.com/CrawlFord/Images/blob/main/github_logo_icon.png" alt="GitHub" width="25" >](https://github.com/CrawlFord)
 
 ---
 
