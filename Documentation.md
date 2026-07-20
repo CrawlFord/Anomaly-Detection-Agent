@@ -1,10 +1,8 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # 5G Network Anomaly Detection Agent
 
 **Project Link:** [View Project](https://nextwork.ai/projects/80e6ffec-6938-482c-ab59-89109492e21c)
 
-**Author:** tandrewudoh@gmail.com  
+**Author:** Torobong Andrew-Udoh  
 **Email:** tandrewudoh@gmail.com
 
 ---
@@ -94,4 +92,4 @@ I did this project today to learn how to build an end-to-end intelligent AI agen
 
 ---
 
-*Built with [NextWork](https://nextwork.ai) - [View this project](https://nextwork.ai/projects/80e6ffec-6938-482c-ab59-89109492e21c)*
+[View this project](https://nextwork.ai/projects/80e6ffec-6938-482c-ab59-89109492e21c)*
