@@ -4,7 +4,7 @@
 
 **Author:** Torobong Andrew-Udoh  
 **Email:** tandrewudoh@gmail.com
-<img src="[https://www.magnific.com/free-photos-vectors/gmail](https://github.com/CrawlFord/Images/blob/main/email.png)" alt="email adress" width="50" />
+<img src="https://github.com/CrawlFord/Images/blob/main/email.png" alt="email adress" width="50" />
 
 ---
 
