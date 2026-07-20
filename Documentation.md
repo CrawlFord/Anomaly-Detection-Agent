@@ -4,6 +4,7 @@
 
 **Author:** Torobong Andrew-Udoh  
 **Email:** tandrewudoh@gmail.com
+<img src="https://www.magnific.com/free-photos-vectors/gmail" alt="email adress" width="50" />
 
 ---
 
